@@ -1,0 +1,6 @@
+framework module TabScrollViewContollerManager {
+  umbrella header "TabScrollViewContollerManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

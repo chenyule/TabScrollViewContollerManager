@@ -1,0 +1,16 @@
+PODS:
+  - TabScrollViewContollerManager (0.1.0)
+
+DEPENDENCIES:
+  - TabScrollViewContollerManager (from `../`)
+
+EXTERNAL SOURCES:
+  TabScrollViewContollerManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TabScrollViewContollerManager: b346763e837853f8668497cc9cef77f4cbdc7913
+
+PODFILE CHECKSUM: 3f2c13667f0220342f1dfbb400d75c068be3a64d
+
+COCOAPODS: 1.4.0.beta.2
