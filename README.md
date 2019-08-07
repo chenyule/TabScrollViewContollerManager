@@ -1,0 +1,29 @@
+# TabScrollViewContollerManager
+
+[![CI Status](https://img.shields.io/travis/chenyule/TabScrollViewContollerManager.svg?style=flat)](https://travis-ci.org/chenyule/TabScrollViewContollerManager)
+[![Version](https://img.shields.io/cocoapods/v/TabScrollViewContollerManager.svg?style=flat)](https://cocoapods.org/pods/TabScrollViewContollerManager)
+[![License](https://img.shields.io/cocoapods/l/TabScrollViewContollerManager.svg?style=flat)](https://cocoapods.org/pods/TabScrollViewContollerManager)
+[![Platform](https://img.shields.io/cocoapods/p/TabScrollViewContollerManager.svg?style=flat)](https://cocoapods.org/pods/TabScrollViewContollerManager)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+TabScrollViewContollerManager is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'TabScrollViewContollerManager'
+```
+
+## Author
+
+chenyule, 1069875706@qq.com
+
+## License
+
+TabScrollViewContollerManager is available under the MIT license. See the LICENSE file for more info.
